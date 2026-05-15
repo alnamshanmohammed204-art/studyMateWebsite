@@ -1,0 +1,17 @@
+[
+    {
+        "rating": 5,
+        "review": "This app is amazing! Helped me organize my study sessions.",
+        "author": "John Doe"
+    },
+    {
+        "rating": 4,
+        "review": "Very helpful, but could use more features.",
+        "author": "Jane Smith"
+    },
+    {
+        "rating": 1,
+        "review": "Did not meet my expectations.",
+        "author": "Anonymous"
+    }
+]
